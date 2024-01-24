@@ -43,8 +43,8 @@ string sumOfTwoLargeNumbers(string num1, string num2) {
 
 int main()
 {
-    string num1 = "abc1def2ghi";
-    string num2 = "Asdfjasf";
+    string num1 = "12345678901234567890123456789012345678901234567890";
+    string num2 = "98765432109876543210987654321098765432109876543210";
     
     string result = sumOfTwoLargeNumbers(num1, num2);
     
